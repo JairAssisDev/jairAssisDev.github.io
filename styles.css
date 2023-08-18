@@ -58,9 +58,10 @@ header .teste{padding-left: 200px;}
     font-style: oblique;
 }
 .projeto {
+    background-color: #b2e7e8;
     border: 1px solid #a0ecdc;
     padding: 10px;
-    margin: 10px 0;
+    margin: 10px 200px;
     font-size: 20px;
     padding: 3px;
     text-align: center;
