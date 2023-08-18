@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    background-color: #def8f8;
+}
+
+header, section, footer {
+    padding: 5px;
+}
+
+
+header {
+    background-color: #b2e7e8;
+    color: rgb(0, 0, 0);
+    display: grid;
+    place-items: center
+    
+    
+}
+header h1{
+    font-size: 35px;
+    
+    margin: 10px;
+    padding: 30px;
+    
+}
+header img{
+    max-width: 100%;
+    border-radius: 50%;
+    
+}
+.testemaster{
+    display: inline;
+}
+header .teste{padding-left: 200px;}
+#sobre-mim{
+    text-align: center;
+    font-style: oblique;
+}
+
+#habilidades ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 0px;
+}
+#habilidades h2{
+    font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+}
+#projetos h2{
+    padding: 5px;
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+}
+.projeto {
+    border: 1px solid #a0ecdc;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 20px;
+    padding: 3px;
+    text-align: center;
+}
+.projeto h2{
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+
+footer {
+    background-color: #b2e7e8;
+    text-align: center;
+    font-size: 35px;
+    margin: 10px 0;
+    padding: 5px;
+}
+footer h2{
+    font-size: 35px;
+    padding: 5px;
+}
+.img{
+    width: 200px;
+}
+p{
+    font-size: 20px;
+    padding: 0px;
+}
